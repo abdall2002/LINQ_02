@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\LINQ_02\FunctionalProgramming\bin\Debug\net7.0\FunctionalProgramming.exe
+C:\Users\COMPUMARTS\source\repos\LINQ_02\FunctionalProgramming\bin\Debug\net7.0\FunctionalProgramming.deps.json
+C:\Users\COMPUMARTS\source\repos\LINQ_02\FunctionalProgramming\bin\Debug\net7.0\FunctionalProgramming.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\LINQ_02\FunctionalProgramming\bin\Debug\net7.0\FunctionalProgramming.dll
+C:\Users\COMPUMARTS\source\repos\LINQ_02\FunctionalProgramming\bin\Debug\net7.0\FunctionalProgramming.pdb
+C:\Users\COMPUMARTS\source\repos\LINQ_02\FunctionalProgramming\obj\Debug\net7.0\FunctionalProgramming.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\LINQ_02\FunctionalProgramming\obj\Debug\net7.0\FunctionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\LINQ_02\FunctionalProgramming\obj\Debug\net7.0\FunctionalProgramming.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\LINQ_02\FunctionalProgramming\obj\Debug\net7.0\FunctionalProgramming.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\LINQ_02\FunctionalProgramming\obj\Debug\net7.0\FunctionalProgramming.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\LINQ_02\FunctionalProgramming\obj\Debug\net7.0\FunctionalProgramming.dll
+C:\Users\COMPUMARTS\source\repos\LINQ_02\FunctionalProgramming\obj\Debug\net7.0\refint\FunctionalProgramming.dll
+C:\Users\COMPUMARTS\source\repos\LINQ_02\FunctionalProgramming\obj\Debug\net7.0\FunctionalProgramming.pdb
+C:\Users\COMPUMARTS\source\repos\LINQ_02\FunctionalProgramming\obj\Debug\net7.0\FunctionalProgramming.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\LINQ_02\FunctionalProgramming\obj\Debug\net7.0\ref\FunctionalProgramming.dll
