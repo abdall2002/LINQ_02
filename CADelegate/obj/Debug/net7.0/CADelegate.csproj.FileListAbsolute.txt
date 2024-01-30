@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\LINQ_02\CADelegate\bin\Debug\net7.0\CADelegate.exe
+C:\Users\COMPUMARTS\source\repos\LINQ_02\CADelegate\bin\Debug\net7.0\CADelegate.deps.json
+C:\Users\COMPUMARTS\source\repos\LINQ_02\CADelegate\bin\Debug\net7.0\CADelegate.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\LINQ_02\CADelegate\bin\Debug\net7.0\CADelegate.dll
+C:\Users\COMPUMARTS\source\repos\LINQ_02\CADelegate\bin\Debug\net7.0\CADelegate.pdb
+C:\Users\COMPUMARTS\source\repos\LINQ_02\CADelegate\obj\Debug\net7.0\CADelegate.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\LINQ_02\CADelegate\obj\Debug\net7.0\CADelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\LINQ_02\CADelegate\obj\Debug\net7.0\CADelegate.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\LINQ_02\CADelegate\obj\Debug\net7.0\CADelegate.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\LINQ_02\CADelegate\obj\Debug\net7.0\CADelegate.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\LINQ_02\CADelegate\obj\Debug\net7.0\CADelegate.dll
+C:\Users\COMPUMARTS\source\repos\LINQ_02\CADelegate\obj\Debug\net7.0\refint\CADelegate.dll
+C:\Users\COMPUMARTS\source\repos\LINQ_02\CADelegate\obj\Debug\net7.0\CADelegate.pdb
+C:\Users\COMPUMARTS\source\repos\LINQ_02\CADelegate\obj\Debug\net7.0\CADelegate.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\LINQ_02\CADelegate\obj\Debug\net7.0\ref\CADelegate.dll
